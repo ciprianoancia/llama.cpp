@@ -90,6 +90,7 @@ sampling parameters: temp = 0.800000, top_k = 40, top_p = 0.950000
 
 
 Building a website can be done in 10 simple steps:
+Read install.MD
 1) Select a domain name and web hosting plan
 2) Complete a sitemap
 3) List your products
